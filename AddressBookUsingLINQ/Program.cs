@@ -95,7 +95,10 @@ namespace AddressBookUsingLINQ
 
             //UC6
             AddressBookManagement addressBookManagement = new AddressBookManagement();
-            addressBookManagement.RetrievingContactDetailsByStateOrCity(addressBookTable);
+            //addressBookManagement.RetrievingContactDetailsByStateOrCity(addressBookTable);
+
+            //UC7
+            addressBookManagement.GetCountByCityAndState(addressBookTable);
         }
     }
 }
