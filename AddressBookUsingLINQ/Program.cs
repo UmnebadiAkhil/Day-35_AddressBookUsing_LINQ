@@ -89,9 +89,13 @@ namespace AddressBookUsingLINQ
 
             // UC5
             //reference for address book management class
-            AddressBookManagement addressBookManagement1 = new AddressBookManagement();
+            //AddressBookManagement addressBookManagement1 = new AddressBookManagement();
             //deleting contacts from address book table UC5
-            addressBookTable = addressBookManagement1.DeletingContactFromTable(addressBookTable);
+            //addressBookTable = addressBookManagement1.DeletingContactFromTable(addressBookTable);
+
+            //UC6
+            AddressBookManagement addressBookManagement = new AddressBookManagement();
+            addressBookManagement.RetrievingContactDetailsByStateOrCity(addressBookTable);
         }
     }
 }

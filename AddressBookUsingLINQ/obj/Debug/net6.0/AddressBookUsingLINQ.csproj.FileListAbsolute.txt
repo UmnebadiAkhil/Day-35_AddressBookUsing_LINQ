@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\AddressBookUsingLINQ.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\AddressBookUsingLINQ.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\AddressBookUsingLINQ.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\AddressBookUsingLINQ.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\ref\AddressBookUsingLINQ.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\bin\Debug\net6.0\AddressBookUsingLINQ.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\ref\AddressBookUsingLINQ.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\Day-35_AddressBookUsing_LINQ\AddressBookUsingLINQ\obj\Debug\net6.0\AddressBookUsingLINQ.genruntimeconfig.cache
