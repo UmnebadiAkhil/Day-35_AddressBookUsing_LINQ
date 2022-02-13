@@ -101,7 +101,15 @@ namespace AddressBookUsingLINQ
             //addressBookManagement.GetCountByCityAndState(addressBookTable);
 
             //UC8
-            addressBookManagement.GetSortedDataBasedOnPersonName(addressBookTable);
+            //addressBookManagement.GetSortedDataBasedOnPersonName(addressBookTable);
+
+            //UC9
+            //listing all the firstnames from addressbook
+            var book = addressBookTable.AsEnumerable().Select(r => r.Field<string>("firstName"));
+            foreach (string element in book)
+            {
+                Console.WriteLine(element);
+            }
         }
     }
 }
